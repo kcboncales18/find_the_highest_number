@@ -31,3 +31,6 @@ num_3 = int(input("enter your third number: "))
 num_4 = int(input("enter your fourth number: "))      
 num_5 = int(input("enter your last number: "))  
 
+#finding_the_highest_number
+result = find_highest (num_1, num_2, num_3, num_4, num_5)
+print(result)
