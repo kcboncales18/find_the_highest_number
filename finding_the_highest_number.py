@@ -24,9 +24,10 @@ def find_highest (num_1, num_2, num_3, num_4, num_5):
         if num_5 > num_3 and num_4:
             return num_5
 
-#the_user_will_input
+#the_user_will_input_numbers
 num_1 = int(input("enter your first number: "))   
 num_2 = int(input("enter your second number: "))      
 num_3 = int(input("enter your third number: "))      
 num_4 = int(input("enter your fourth number: "))      
 num_5 = int(input("enter your last number: "))  
+
